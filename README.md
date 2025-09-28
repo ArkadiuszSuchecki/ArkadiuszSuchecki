@@ -6,29 +6,29 @@ My name is Arek. Between exploring the Undead Assylum and saving The Lands Betwe
 
 My previous professional experience includes:
 
-- <b><i>Junior Embedded C Developer</i></b> - <a href="">ADB Polska Sp. z o.o.</a>, Zielona Góra<br>
+- ***Junior Embedded C Developer*** - [ADB Polska Sp. z o.o.](https://www.adbglobal.com/), Zielona Góra<br>
   My responsibilities:
-  - Development of firmware for modules used in TV modems in C;
-  - Troubleshooting firmware by static analysis and hardware signal analysis;
-  - Manual testing;
+  - *Development of firmware for modules used in TV modems in C*;
+  - *Troubleshooting firmware by static analysis and hardware signal analysis*;
+  - *Manual testing*;
 
  # Skills
 
 | C++ | OOP | C | Python | OS | Microcontrollers | Soft skills |
 | --- | --- | --- | --- | --- | --- | --- |
-| - C++11 | - Design Patterns basics | - Structural programming | -OOP | - Ubuntu | - Arduino | - Analythical thinking |
-| - OOP | - OOD fundamentals | - Macros | - Making custom tools | - Windows | -STM32 | - Quick learning |
-| - RAII | - UML diagrams | - Memory management | | | | - Profficient debugging |
-| - Metaprogramming basics | | | | | | |
-| - Memory management | | | | | | |
-| - Macros | | | | | | |
-| - Lambdas | | | | | | |
-| - STL basics | | | | | | |
+| - *C++11* | - *Design Patterns basics* | - *Structural programming* | - *OOP* | - *Ubuntu* | - *Arduino* | - *Analythical thinking* |
+| - *OOP* | - *OOD fundamentals* | - *Macros* | - *Making custom tools* | - *Windows* | - *STM32* | - *Quick learning* |
+| - *RAII* | - *UML diagrams* | - *Memory management* | | | | - *Profficient debugging* |
+| - *Metaprogramming basics* | | | | | | |
+| - *Memory management* | | | | | | |
+| - *Macros* | | | | | | |
+| - *Lambdas* | | | | | | |
+| - *STL basics* | | | | | | |
 
 # Languages
 
-- Polish - C2 (Native);
-- English - B2;
+- **Polish** - *C2 (Native)*;
+- **English** - *B2*;
 
 # Interests
 
@@ -40,4 +40,4 @@ My previous professional experience includes:
 
 I hope you've found my profile interresting. If you would like to reach me, feel free to send me an e-mail on the address provided in my GitHub profile.
 
-- And remember, don't you dare go hollow ☠️
+> *And remember, don't you dare go hollow* ☠️
