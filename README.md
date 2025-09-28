@@ -25,20 +25,19 @@ My previous professional experience includes:
 | - Lambdas | | | | | | |
 | - STL basics | | | | | | |
 
+# Languages
 
+- Polish - C2 (Native);
+- English - B2;
 
+# Interests
 
-<!--
-**ArkadiuszSuchecki/ArkadiuszSuchecki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Programming;
+- Music;
+- Video games;
 
-Here are some ideas to get you started:
+# Closing words
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I hope you've found my profile interresting. If you would like to reach me, feel free to send me an e-mail on the address provided in my GitHub profile.
+
+- And remember, don't you dare go hollow ☠️
