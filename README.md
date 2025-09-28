@@ -1,6 +1,8 @@
 # Hello there Hollow One ⚔️
 
-My name is Arek. Between exploring the Undead Assylum and saving The Lands Between, I study Computer Science at the [University of Zielona Góra](uz.zgora.pl), Poland, and aspire to work as a C++ Software Engineer. With couple of years of private programming experience under my belt and a handful of Estus Flasks tucked in my back pocket, I embark on a journey to start my professional career!
+My name is Arek. 
+
+Between exploring the Undead Assylum and saving The Lands Between, I study ***Computer Science*** at the [*University of Zielona Góra*](uz.zgora.pl), Poland, and aspire to work as a C++ Software Engineer. With couple of years of private programming experience under my belt and a handful of Estus Flasks tucked in my back pocket, I embark on a journey to start my professional career!
 
 # Experience
 
